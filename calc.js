@@ -9,7 +9,7 @@ function calc() {
         workArea.value = eval(workArea.value);
     }
     catch (err) {
-        workArea.value = "Error";
+        workArea.value = "Error :(";
     }
 }
 function clearall() {
